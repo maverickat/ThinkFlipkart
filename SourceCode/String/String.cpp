@@ -2,7 +2,11 @@
 int main(){
 	cout<<"HELLO";
 }
-void toupp{
+void toupp(){
 	cout<<"upper";
+}
+
+vois tolow(){
+	cout<<"toLow";
 }
 
